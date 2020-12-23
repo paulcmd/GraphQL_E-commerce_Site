@@ -13,7 +13,7 @@ export const useStyles = makeStyles((theme) => ({
     btnSignup:{
         color: "white"
     },
-    btnLogin:{
+    headerBtn:{
         color: "white"
     }
   }));
